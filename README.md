@@ -3,6 +3,10 @@ A Markdown Plugin of Wordpress
 
 > Forked from http://www.scaperow.com/323
 
+Preview
+======
+![img](http://source.scaperow.com/wp-content/uploads/2015/12/markdown.gif)
+
 How to Use  
 ======
 1.将 marked.js，makemarked.js 拷贝到 ~\wp-content\{你的主题目录}\js\ 目录下  
