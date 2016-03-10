@@ -1,7 +1,8 @@
 # Markdown-wp
 A Markdown Plugin of Wordpress
 
-> Forked from http://www.scaperow.com/323
+> Forked from: [风景侠](http://www.scaperow.com/323)  
+> Another article: [张河](https://www.zivers.com/post/553.html)
 
 Preview
 ======
