@@ -5,7 +5,7 @@ A Markdown Plugin of Wordpress
 
 Preview
 ======
-![img](http://source.scaperow.com/wp-content/uploads/2015/12/markdown.gif)
+![img](./demo.gif)
 
 How to Use  
 ======
