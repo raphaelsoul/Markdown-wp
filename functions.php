@@ -51,8 +51,8 @@ add_action( 'admin_menu', 'create_markdown' );
 add_action( 'save_post', 'save_markdown', 10, 2 );
 
 function markdown_script() {
-     wp_enqueue_script('markdown', get_template_directory_uri() . '/assets/scripts/marked.min.js' );
-     wp_enqueue_script('makemarkdown', get_template_directory_uri() . '/assets/scripts/makemarkdown.js'); 
+     wp_enqueue_script('markdown', get_template_directory_uri() . '/js/marked.min.js' );
+     wp_enqueue_script('makemarkdown', get_template_directory_uri() . '/js/makemarkdown.js'); 
 }
 
 add_action( 'admin_enqueue_scripts', 'markdown_script'); 
