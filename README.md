@@ -15,4 +15,4 @@ Preview
 How to Use  
 ======
 1.将 marked.js，makemarked.js 拷贝到 ~\wp-content\{你的主题目录}\js\ 目录下  
-2.在 主题的`functions.php`中加入`functions.php`
+2.在 主题的`functions.php`中加入`functions.php`内的代码
